@@ -1,0 +1,6 @@
+{
+  "name": "UNJANI — Community Action & Impact Platform",
+  "description": "African-modern platform helping Kenyan communities turn local concerns into coordinated action, measurable progress, and transparent accountability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
